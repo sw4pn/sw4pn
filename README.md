@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;Self-taught+Developer;Expertise+in+ReactJS;TypeScript+TailwindCSS+NodeJS,ExpressJS;Mastering+Full-Stack-Development;Love+to+learn+and+Master+new+stuff..<3"></a>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;Self-taught+Developer;Expertise+in+ReactJS;TypeScript+TailwindCSS+NodeJS,ExpressJS;Mastering+Full-Stack-Development;Love+to+learn+and+Master+new+stuff..<3">
 </p>
 
 <h2> / about me /</h2>
