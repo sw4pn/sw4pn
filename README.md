@@ -33,7 +33,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for **Internships** or **Remote Job**
 
 
-- 💬 Ask me about Anything [here](https://github.com/sw4pn/sw4pn/issues/1)! I am happy to help.
+- 💬 Ask me about Anything [here](https://github.com/sw4pn/sw4pn/issues/new)! I am happy to help.
 
 <p>&nbsp;</p>
 
