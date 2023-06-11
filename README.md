@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 
 - ⭐ currently working on **Full-Stack-development**
 
-- 📫 Reach me at **yuebaix@outlook.com**
+- 📫 Reach me at **sw4pn@yahoo.com**
 
 
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
