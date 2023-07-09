@@ -137,11 +137,11 @@ You can use the website to generate badges: https://shields.io/
 </br>
 	
 
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 A Snake Eating My Contributions Graph
 	
 <p align = "center">
 
-	<img src = "https://github.com/sw4pn/sw4pn/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<img src = "https://github.com/sw4pn/sw4pn/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 	
 </p>
 
