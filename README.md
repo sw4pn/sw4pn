@@ -17,16 +17,16 @@ You can use the website to generate badges: https://shields.io/
 
 <h2> / about me /</h2>
 
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Web3, Blockchain Development
 
 - ⭐ currently working on **Full-Stack-development**
 
 - 📫 Reach me at **sw4pn@yahoo.com**
 
 
-- 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts, and data science.
+- 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts, and tech world.
   <!---
--  👾 Fun Fact: my curiosity towards computers got me here from civil engineering, non-tech background.
+-  👾 Fun Fact: my curiosity about computers got me here from civil engineering, non-tech background.
  --->
 
 - 🤔 I’m looking for **Internships** or **Remote Job**
