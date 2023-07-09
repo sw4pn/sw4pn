@@ -17,18 +17,17 @@ You can use the website to generate badges: https://shields.io/
 
 <h2> / about me /</h2>
 
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning DevOps
 
 - ⭐ currently working on **Full-Stack-development**
 
 - 📫 Reach me at **sw4pn@yahoo.com**
 
 
-- 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
-
-
-- 👾 Fun-Fact: my curosity towards computers got me here from civil engineering, non-tech background.
-
+- 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts, and data science.
+  <!---
+-  👾 Fun Fact: my curiosity towards computers got me here from civil engineering, non-tech background.
+ --->
 
 - 🤔 I’m looking for **Internships** or **Remote Job**
 
@@ -47,7 +46,7 @@ You can use the website to generate badges: https://shields.io/
 </div>
 <!--tech stack icons-->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,mongodb,express,figma,firebase,github,html,java,js,kotlin,linux,md,mongoose,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,mongodb,express,figma,firebase,github,html,java,js,kotlin,linux,md,mongoose,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,python,java,django,linux,android,API&perline=10" />
   
 </p>
 <br/>
@@ -69,7 +68,7 @@ You can use the website to generate badges: https://shields.io/
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a> -->
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/swapnil.andhale">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/_sw4pnil">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 <!-- 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
@@ -136,7 +135,7 @@ You can use the website to generate badges: https://shields.io/
 -----
 </br>
 	
-	
+<!--	
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
@@ -148,8 +147,8 @@ You can use the website to generate badges: https://shields.io/
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sw4pn&label=Profile%20views&color=0e75b6&style=flat" alt="sw4pn" /> </p>
 
 </br>
-
-Last Edited on: 14/05/2023
+-->
+Last Edited on: 09/07/2023
 
 <!--
 **sw4pn/sw4pn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
