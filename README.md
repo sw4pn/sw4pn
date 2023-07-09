@@ -141,7 +141,7 @@ You can use the website to generate badges: https://shields.io/
 	
 <p align = "center">
 
-<img src = "https://github.com/sw4pn/sw4pn/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<img src = "https://github.com/sw4pn/sw4pn/grid-contribution-grid-snake.svg" alt = "Snake Game"/>
 	
 </p>
 
