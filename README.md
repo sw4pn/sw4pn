@@ -106,6 +106,7 @@ You can use the website to generate badges: https://shields.io/
 	
 </details>
 
+<!--
 -----
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
@@ -130,12 +131,12 @@ You can use the website to generate badges: https://shields.io/
   </p>
 </div>
 </details>
-
+-->
 </br>
 -----
 </br>
 	
-<!--	
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
@@ -147,7 +148,7 @@ You can use the website to generate badges: https://shields.io/
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sw4pn&label=Profile%20views&color=0e75b6&style=flat" alt="sw4pn" /> </p>
 
 </br>
--->
+
 Last Edited on: 09/07/2023
 
 <!--
