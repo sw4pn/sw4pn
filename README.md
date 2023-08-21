@@ -17,9 +17,9 @@ You can use the website to generate badges: https://shields.io/
 
 <h2> / about me /</h2>
 
-- 🌱 I’m currently learning Web3, Blockchain Development
+- 🌱 I’m currently working as Frontend Engineer.
 
-- ⭐ currently working on **Full-Stack-development**
+- ⭐ learning **Android App Development**
 
 - 📫 Reach me at **sw4pn@yahoo.com**
 
@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/
 -  👾 Fun Fact: my curiosity about computers got me here from civil engineering, non-tech background.
  --->
 
-- 🤔 I’m looking for **Internships** or **Remote Job**
+- 🤔 I’m looking for **Remote Job** with better opportunity
 
 
 - 💬 Ask me about Anything [here](https://github.com/sw4pn/sw4pn/issues/new)! I am happy to help.
