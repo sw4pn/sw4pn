@@ -11,15 +11,18 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
+/ Full Stack Frontend Developer /
+<!--
 <p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;Self-taught+Developer;Expertise+in+ReactJS;TypeScript+TailwindCSS+NodeJS,ExpressJS;Mastering+Full-Stack-Development;Love+to+learn+and+Master+new+stuff..<3">
 </p>
+-->
 
 <h2> / about me /</h2>
 
 - 🌱 I’m currently working as Frontend Engineer.
 
-- ⭐ learning **Android App Development**
+- ⭐ mastering **Full Stack Development**
 
 - 📫 Reach me at **sw4pn@yahoo.com**
 
@@ -46,7 +49,7 @@ You can use the website to generate badges: https://shields.io/
 </div>
 <!--tech stack icons-->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,mongodb,express,figma,firebase,github,html,java,js,kotlin,linux,md,mongoose,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,python,java,django,linux,android,API&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,redux,tailwind,nextjs,bootstrap,git,github,figma,express,nestjs,postgres,mongodb,mysql,postman,linux,firebase,java,kotlin,md,py,vscode,android,API&perline=10" />
   
 </p>
 <br/>
@@ -104,8 +107,10 @@ You can use the website to generate badges: https://shields.io/
 	
 <p align="center"> <a href="https://github.com/sw4pn/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sw4pn&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="sw4pn github trophies" /></a> </p>
 
+<!--
 [![@sw4pn's Holopin board](https://holopin.io/api/user/board?user=sw4pn)](https://holopin.io/@sw4pn)
-	
+-->
+
 </details>
 
 <!--
