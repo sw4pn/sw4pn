@@ -147,7 +147,7 @@ You can use the website to generate badges: https://shields.io/
 -----
 </br>
 	
-
+<!--
 ## 🐍 A Snake Eating My Contributions Graph
 	
 <p align = "center">
@@ -157,7 +157,7 @@ You can use the website to generate badges: https://shields.io/
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sw4pn/sw4pn/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sw4pn/sw4pn/output/github-contribution-grid-snake.svg">
 </picture>
-
+-->
 <!--
 <img src = "https://github.com/sw4pn/sw4pn/grid-contribution-grid-snake.svg" alt = "Snake Game"/>
 
