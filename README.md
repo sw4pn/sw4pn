@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://sw4pn.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://www.swapnilandhale.dev)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sw4pn)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-andhale/)
 
@@ -36,6 +36,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 - 💬 Ask me about Anything [here](https://github.com/sw4pn/sw4pn/issues/new)! I am happy to help.
+
+- 🔗  Visit my [Portfolio Website](https://www.swapnilandhale.dev)
 
 <p>&nbsp;</p>
 
