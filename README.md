@@ -28,6 +28,9 @@ You can use the website to generate badges: https://shields.io/
 
 
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts, and tech world.
+
+- 🔗  Visit my [Portfolio Website](https://www.swapnilandhale.dev)
+  
   <!---
 -  👾 Fun Fact: my curiosity about computers got me here from civil engineering, non-tech background.
  --->
@@ -37,7 +40,6 @@ You can use the website to generate badges: https://shields.io/
 
 - 💬 Ask me about Anything [here](https://github.com/sw4pn/sw4pn/issues/new)! I am happy to help.
 
-- 🔗  Visit my [Portfolio Website](https://www.swapnilandhale.dev)
 
 <p>&nbsp;</p>
 
