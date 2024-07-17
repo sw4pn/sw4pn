@@ -104,12 +104,10 @@ You can use the website to generate badges: https://shields.io/
  </p>
 
 <br>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
+<!--
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>	
 <p align="center"> <a href="https://github.com/sw4pn/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sw4pn&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="sw4pn github trophies" /></a> </p>
+-->
 
 <!--
 [![@sw4pn's Holopin board](https://holopin.io/api/user/board?user=sw4pn)](https://holopin.io/@sw4pn)
