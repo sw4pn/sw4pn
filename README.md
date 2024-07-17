@@ -142,7 +142,6 @@ You can use the website to generate badges: https://shields.io/
 </details>
 -->
 </br>
------
 </br>
 	
 <!--
@@ -157,7 +156,7 @@ You can use the website to generate badges: https://shields.io/
 </picture>
 -->
 <!--
-<img src = "https://github.com/sw4pn/sw4pn/grid-contribution-grid-snake.svg" alt = "Snake Game"/>
+<img src = "https://github.com/sw4pn/sw4pn/grid-contribution-grid-snakfe.svg" alt = "Snake Game"/>
 
 ![Snake Game Animation](https://raw.githubusercontent.com/sw4pn/output/github-contribution-grid-snake.svg)
 -->
