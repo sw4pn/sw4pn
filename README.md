@@ -141,8 +141,6 @@ You can use the website to generate badges: https://shields.io/
 </div>
 </details>
 -->
-</br>
-</br>
 	
 <!--
 ## 🐍 A Snake Eating My Contributions Graph
