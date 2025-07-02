@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 🌱 I’m currently working as Frontend Engineer.
 
-- ⭐ mastering **Full Stack Development**
+- ⭐ mastering **DevOps**
 
 - 📫 Reach me at **sw4pn@yahoo.com**
 
